@@ -1,6 +1,6 @@
 ; Assembly Calculator
 ; Computer Architecture (CS2651) Lab 2
-; By Xiangyuan Xue (521030910387)
+; By xxyQwQ
 ;
 ;
 ;
